@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"LVL004","order":3,"parentId":0,"scrollX":1426.8,"scrollY":919.1999999999999},
-{"id":2,"expanded":true,"name":"LVL001","order":1,"parentId":0,"scrollX":869,"scrollY":535},
-{"id":3,"expanded":false,"name":"LVL002","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":567.6}
+{"id":1,"expanded":false,"name":"LVL004","order":3,"parentId":0,"scrollX":1216.5,"scrollY":1282.5},
+{"id":2,"expanded":true,"name":"LVL001","order":1,"parentId":0,"scrollX":869,"scrollY":541},
+{"id":3,"expanded":false,"name":"LVL002","order":2,"parentId":0,"scrollX":869,"scrollY":473}
 ]
